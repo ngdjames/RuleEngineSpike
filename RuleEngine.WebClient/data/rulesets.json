@@ -1,0 +1,8 @@
+﻿{
+	success: true,
+	results: [
+		{id: 1, name: 'Billing Hold Days'},
+		{id: 2, name: 'Days to Run Bills'},
+		{id: 3, name: 'Days to Run Bills'}
+	]
+}

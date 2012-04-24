@@ -1,0 +1,9 @@
+﻿{
+	success: true,
+	results: [
+		{id: 1, 'name': 'Male => Mr.', ruleset: 3},
+		{id: 2, 'name': 'Single Female => Miss', ruleset: 3},
+		{id: 3, 'name': 'Married Female => Mrs.', ruleset: 3},
+		{id: 4, 'name': 'Minor => To the parents of', ruleset: 3}
+	]
+}

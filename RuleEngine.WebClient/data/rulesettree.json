@@ -1,0 +1,34 @@
+﻿[
+	{text: "Clinical", id:"clinical", leaf: false, children: []},
+	{text: "General Financial", id:"generalfinancial", leaf: false, children: []},
+	{text: "Interfaces", id:"interfaces", leaf: false, children: []},
+	{
+		text: "Patient Financial",
+		id:"patientfinancial",
+		leaf: false,
+		children: [
+			{
+				text: "Billing", 
+				id: "billing", 
+				leaf: false,
+				children: [
+					{text: "Billing Hold Days", id: 1, leaf: true},
+					{text: "Days to Run Bills", id: 2, leaf: true}
+				]
+			}
+		]
+	},
+	{
+		text: "Proof of Concept",
+		id: "poc",
+		leaf: false,
+		children: [
+			{
+				text: "Salutations",
+				id: 3,
+				leaf: true
+			}
+		]
+	},
+	{text: "Security", id:"security", leaf: false, cls: "folder", children: []}
+]
