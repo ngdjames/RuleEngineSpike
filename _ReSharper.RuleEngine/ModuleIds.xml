@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="627E0CED-A194-44E0-8154-9B2970437D09" ModuleId="RuleEngine.UnitTests" />
+  <Module PersistentId="861D688A-C8ED-4A70-9E3E-9A69CE9F0A27" ModuleId="RuleEngine.Core" />
+</Modules>
